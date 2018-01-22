@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FLuaJIT.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FLuaJIT?ref=badge_shield)
+
 README for LuaJIT 2.0.5
 -----------------------
 
@@ -14,3 +16,7 @@ Please point your favorite browser to:
 
  doc/luajit.html
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FLuaJIT.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FLuaJIT?ref=badge_large)
